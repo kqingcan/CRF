@@ -1,0 +1,7 @@
+
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(úŞØôûÿÿÿÿ8û»Õ€ö,
+1squid:S1220""Move this file to a named package.
+6squid:S1643"Use a StringBuilder instead.(À¯â®ıÿÿÿÿ
+squid:S1319"oThe type of the "gram" object should be an interface such as "List" rather than the implementation "ArrayList".(úŞØôûÿÿÿÿ8õÀÖ€ö,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»ò©Ÿúÿÿÿÿ8„º×€ö,
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º© ‰øÿÿÿÿ

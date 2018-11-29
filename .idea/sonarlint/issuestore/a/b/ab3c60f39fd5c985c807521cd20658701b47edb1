@@ -1,0 +1,48 @@
+
+Ysquid:S1854"=Remove this useless assignment to local variable "firstLine".(æÅ®ù8˜¿†ƒö,
+fsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(îš˜Ãûÿÿÿÿ8˜¿†ƒö,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜¿†ƒö,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½òÌ¿ÿÿÿÿÿ8˜¿†ƒö,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(’³µÖûÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Î‹²şÿÿÿÿ8Ìˆíúõ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¤õïúõ,
+Zsquid:S3518">Make sure "totalNum" can't be zero before doing this division.(™ƒèã8¤õïúõ,
+Zsquid:S1854">Remove this useless assignment to local variable "unusedLine".(±±ÈÍ8˜¿†ƒö,
+`squid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(–Æ˜P8˜¿†ƒö,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Ìïøÿÿÿÿ8¤õïúõ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤—ªşıÿÿÿÿ8ñÑîúõ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(İƒ²®üÿÿÿÿ8¤õïúõ,
+8squid:S1643"Use a StringBuilder instead.(óşÁÂ8˜¿†ƒö,
+Zsquid:UselessImportCheck",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8êµüöõ,
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùƒ“ø
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùöâ8˜¿†ƒö,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ÿË8¤õïúõ,
+1squid:S1220""Move this file to a named package.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÌ´ß8˜¿†ƒö,
+Ksquid:S1481"/Remove this unused "unusedLine" local variable.(±±ÈÍ8˜¿†ƒö,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›°Ë÷ùÿÿÿÿ8¤õïúõ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8˜¿†ƒö,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ8˜¿†ƒö,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¤õïúõ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜¨Ç/8˜¿†ƒö,
+Jsquid:S1481".Remove this unused "firstLine" local variable.(æÅ®ù8˜¿†ƒö,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½òÌ¿ÿÿÿÿÿ8˜¿†ƒö,
+Jsquid:S1068"0Remove this unused "templateList" private field.(»àÉ„ıÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ĞÉÏÂ8¤õïúõ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¦¬áÏ8˜¿†ƒö,
+Xsquid:S1854">Remove this useless assignment to local variable "sentensNum".(ÈŞÀªÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉÓ·£8¤õïúõ,
